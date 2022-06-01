@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main {
+    width: 100%;
+    height: 100vh;
+    background-color: #171515;
+}
+
+.aboutt {
+    font-family: sans-serif;
+    color: #fff;
+    padding-top: 30px;
+    padding-left: 30px;
+
+    
+}
+.about1 {
+    font-family: sans-serif;
+    color: rgb(99, 99, 99);
+    width: 480px;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.about2 {
+    font-family: sans-serif;
+    color: rgb(99, 99, 99);
+    margin-top: 30px;
+    width: 480px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.socioo {
+    font-family: sans-serif;
+    color: #fff;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.btn {
+    width: 120px;
+    height: 25px;
+    border-radius: 5px;
+    border: 1px solid rgb(99, 99, 99);
+    background-color: #171515;
+    color: rgb(99, 99, 99);
+    margin-top: 30px;
+    margin-left: 30px;
+    cursor: pointer;
+    
+}
+.alo {
+    margin-top: -30px;
+    cursor: pointer;
+}
+.tags {
+    display: flex;
+}
+.tagss {
+    font-family: sans-serif;
+    color: #fff;
+    padding-top: 30px;
+    padding-left: 30px;  
+}
+.btt {
+    width: 120px;
+    height: 25px;
+    border-radius: 5px;
+    border: 1px solid rgb(99, 99, 99);
+    background-color: #171515;
+    color: rgb(99, 99, 99);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    
+
+}
+.importt {
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: -500px;
+}
+
+hr {
+    width: 20%;
+    margin-left: 650px;
+    position: absolute;
+    top: 250px;
+}
+
+.alli {
+    margin-left: 650px;
+    color: #fff;
+    font-family: sans-serif;
+    
+}
